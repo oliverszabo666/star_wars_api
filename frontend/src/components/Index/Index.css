@@ -1,0 +1,28 @@
+.index {
+  padding: 20px 40px;
+  display: grid;
+  grid-template-areas:
+    "title buttons"
+    "table table";
+  gap: 10px;
+}
+
+h1 {
+  margin: 15px 0;
+}
+
+.page {
+  padding: 0 10px;
+}
+
+.buttons {
+  grid-area: buttons;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+}
+
+.table-responsive {
+  grid-area: table;
+}

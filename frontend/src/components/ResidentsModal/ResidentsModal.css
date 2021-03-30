@@ -1,0 +1,9 @@
+.custom-modal > * {
+    max-width: 1200px!important;
+    font-family: "Roboto", sans-serif;
+}
+
+.gender-align-center {
+    text-align: center;
+    font-size: 1.3rem;
+}

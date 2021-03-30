@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "StarJedi";
+  src: local("StarJedi"), url(./Starjedi.ttf) format("truetype");
+}
+
+.sw-font {
+  font-family: "StarJedi";
+  font-weight: 400;
+  line-height: 0.8;
+  color: #ffe81f;
+  font-size: 40px;
+  padding-bottom: 15px;
+}
+
+.sw-font:hover {
+  color: #ffe81f;
+  user-select: none;
+}
+
+.navbar-nav {
+  gap: 40px;
+}

@@ -1,0 +1,361 @@
+{
+  "users": [
+    {
+      "id": "8LwPnYXN",
+      "username": "asd",
+      "hash": "$2b$10$W2YZBbiB1/EASEdoyhX0cegzjWw8FjNoSVJJ3pCbFhqfCMOSYPA0u"
+    },
+    {
+      "id": "oGVialxb",
+      "username": "lol",
+      "hash": "$2b$10$KVfHuiGAZt/HgoXNCak33Oi0.NtAw2NFXz5m5MUmWo2FQGAvCWXhe"
+    },
+    {
+      "id": "xkjET7qH",
+      "username": "norbi",
+      "hash": "$2b$10$BsZmis/GUFdqJ8eDXyxYC.LSvzwO84mn5Y8eQ5MnfzaJOjixzGqLq"
+    },
+    {
+      "id": "iLpHmvqj",
+      "username": "lul",
+      "hash": "$2b$10$7Y95Q.XKDAGA9zSgqACTruP2vU976lH7uRWSsdx.Qs5l/hS6gPFuG"
+    },
+    {
+      "id": "b8h1h4Cn",
+      "username": "gerzson",
+      "hash": "$2b$10$5ga0SqoNNn7Xgh0yoqTcVunRq9wLmdrJ.CKxgSPIurBaW5Jh6gxa2"
+    },
+    {
+      "id": "7o4YRxbG",
+      "username": "asd1",
+      "hash": "$2b$10$2qTC1YGP/ti2fsioDSC38uH.ApC4MzMZ99ATNt5lbosG5a8FlPF4O"
+    },
+    {
+      "id": "gRvK5K1h",
+      "username": "user",
+      "hash": "$2b$10$/lHkYHBMFhi6cUNpMsTTeOF21kOXdLG0s0tZbos9AjvkurVxdVgUi"
+    },
+    {
+      "id": "OZDlNTjp",
+      "username": "admin",
+      "hash": "$2b$10$hgS9mjU7hzIZCnqeRkVuXO6AOrhewNlUVEPI/1uIEDl4tbajeHfPm"
+    }
+  ],
+  "planet-votes": [
+    {
+      "id": "IEI_e13StC",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614788933771
+    },
+    {
+      "id": "qJPRMckbtf",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614789568774
+    },
+    {
+      "id": "Y4-a0EWG0O",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614791813788
+    },
+    {
+      "id": "ezN2P6gKNN",
+      "planet_id": "Alderaan",
+      "planet_name": "Alderaan",
+      "user_id": 123,
+      "submission_time": 1614791819728
+    },
+    {
+      "id": "wH38CcpW5a",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614791821322
+    },
+    {
+      "id": "Zow1LJM5X1",
+      "planet_id": "Dagobah",
+      "planet_name": "Dagobah",
+      "user_id": 123,
+      "submission_time": 1614791824443
+    },
+    {
+      "id": "pb79LYxEnj",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614791827241
+    },
+    {
+      "id": "fGdJTb4oH_",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614791958734
+    },
+    {
+      "id": "WLPcx7n2je",
+      "planet_id": "Alderaan",
+      "planet_name": "Alderaan",
+      "user_id": 123,
+      "submission_time": 1614791958975
+    },
+    {
+      "id": "zDO3lOUe_N",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614791959442
+    },
+    {
+      "id": "hLsD_ldlNl",
+      "planet_id": "Hoth",
+      "planet_name": "Hoth",
+      "user_id": 123,
+      "submission_time": 1614791960400
+    },
+    {
+      "id": "F9ZjZITge6",
+      "planet_id": "Kamino",
+      "planet_name": "Kamino",
+      "user_id": 123,
+      "submission_time": 1614854598420
+    },
+    {
+      "id": "RjnfP3SpLC",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614866081431
+    },
+    {
+      "id": "U_UR_-uJNH",
+      "planet_id": "Hoth",
+      "planet_name": "Hoth",
+      "user_id": 123,
+      "submission_time": 1614866083108
+    },
+    {
+      "id": "BXNWn4oxCO",
+      "planet_id": "Endor",
+      "planet_name": "Endor",
+      "user_id": 123,
+      "submission_time": 1614866246175
+    },
+    {
+      "id": "HYwCeEV5JB",
+      "planet_id": "Hoth",
+      "planet_name": "Hoth",
+      "user_id": 123,
+      "submission_time": 1614868794316
+    },
+    {
+      "id": "NArl7rL5CH",
+      "planet_id": "Hoth",
+      "planet_name": "Hoth",
+      "user_id": 123,
+      "submission_time": 1614868794645
+    },
+    {
+      "id": "UPzDRM_LiS",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614871137333
+    },
+    {
+      "id": "tJbfp1snuD",
+      "planet_id": "Geonosis",
+      "planet_name": "Geonosis",
+      "user_id": 123,
+      "submission_time": 1614892750077
+    },
+    {
+      "id": "en0e_n9rUV",
+      "planet_id": "Utapau",
+      "planet_name": "Utapau",
+      "user_id": 123,
+      "submission_time": 1614892760968
+    },
+    {
+      "id": "JVYvQF2e-Q",
+      "planet_id": "Kashyyyk",
+      "planet_name": "Kashyyyk",
+      "user_id": 123,
+      "submission_time": 1614892768312
+    },
+    {
+      "id": "oXhiqEeQ_o",
+      "planet_id": "Mygeeto",
+      "planet_name": "Mygeeto",
+      "user_id": 123,
+      "submission_time": 1614892789944
+    },
+    {
+      "id": "Qw2W4tT_Fs",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614892843241
+    },
+    {
+      "id": "H-UuVw2W3C",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614892845146
+    },
+    {
+      "id": "l0C0xOhlnb",
+      "planet_id": "Alderaan",
+      "planet_name": "Alderaan",
+      "user_id": 123,
+      "submission_time": 1614892847001
+    },
+    {
+      "id": "YvII4HVLf4",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614935197262
+    },
+    {
+      "id": "zpJYzbObqB",
+      "planet_id": "Alderaan",
+      "planet_name": "Alderaan",
+      "user_id": 123,
+      "submission_time": 1614935198784
+    },
+    {
+      "id": "2KAoM-qXXZ",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614935199322
+    },
+    {
+      "id": "OvRIM6tTa9",
+      "planet_id": "Hoth",
+      "planet_name": "Hoth",
+      "user_id": 123,
+      "submission_time": 1614935199816
+    },
+    {
+      "id": "fXGZLLdL66",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614937015362
+    },
+    {
+      "id": "2JXhsvOj54",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614937041139
+    },
+    {
+      "id": "84ulLq8hsV",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614937041372
+    },
+    {
+      "id": "N8w3YDVp9k",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614937041850
+    },
+    {
+      "id": "QUFaVtgTZ4",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614937042105
+    },
+    {
+      "id": "LnbooXke--",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614937042368
+    },
+    {
+      "id": "_37Ufo-Kit",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614937042618
+    },
+    {
+      "id": "Swy8mUPA67",
+      "planet_id": "Hoth",
+      "planet_name": "Hoth",
+      "user_id": 123,
+      "submission_time": 1614937052643
+    },
+    {
+      "id": "TDX9lMSNlE",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1614937054413
+    },
+    {
+      "id": "jujkBBWyf6",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614937080967
+    },
+    {
+      "id": "pIHLxs6T_e",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614937081397
+    },
+    {
+      "id": "UIK1HjNnjs",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614937081608
+    },
+    {
+      "id": "QbPsDxr3s2",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1614937081872
+    },
+    {
+      "id": "NEMR6vds2F",
+      "planet_id": "Tatooine",
+      "planet_name": "Tatooine",
+      "user_id": 123,
+      "submission_time": 1616090926462
+    },
+    {
+      "id": "YmN5p97J3f",
+      "planet_id": "Yavin IV",
+      "planet_name": "Yavin IV",
+      "user_id": 123,
+      "submission_time": 1616090927154
+    },
+    {
+      "id": "5xCi64WPPB",
+      "planet_id": "Dagobah",
+      "planet_name": "Dagobah",
+      "user_id": 123,
+      "submission_time": 1616090928285
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.messageDisplay {
+  position: relative;
+  height: 0;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+}
+
+.message {
+  max-width: 500px;
+  position: relative;
+  top: 10px;
+}
