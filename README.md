@@ -27,7 +27,7 @@ You get an error message if you type in an incorrect password.
 
 # Index Page After Logging In
 ![apiwars_loggedin](https://user-images.githubusercontent.com/48241538/116904170-a966c800-ac3d-11eb-8491-4ac9cacb5ac7.png)
-## You can also see the vode button popping up now.
+You can also see the vode button popping up now.
 ![apiwars_vote](https://user-images.githubusercontent.com/48241538/116904227-b84d7a80-ac3d-11eb-9bbc-ea83ec6f0b81.png)
 ![apiwars_voted](https://user-images.githubusercontent.com/48241538/116904233-bbe10180-ac3d-11eb-807e-1692457d9e0b.png)
 
