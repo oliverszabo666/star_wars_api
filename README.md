@@ -23,6 +23,7 @@ When trying to register as an existing user, you get an error message.
 
 # Log in
 You get an error message if you type in an incorrect password.
+
 ![apiwars_incorrect_pw](https://user-images.githubusercontent.com/48241538/116904023-7a505680-ac3d-11eb-9fa8-942a11057275.png)
 
 # Index Page After Logging In
